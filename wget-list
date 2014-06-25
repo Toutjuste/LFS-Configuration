@@ -36,7 +36,7 @@ http://ftp.gnu.org/gnu/libtool/libtool-2.4.2.tar.gz
 http://www.kernel.org/pub/linux/kernel/v3.x/linux-3.13.11.tar.xz
 http://ftp.gnu.org/gnu/m4/m4-1.4.17.tar.xz
 http://ftp.gnu.org/gnu/make/make-4.0.tar.bz2
-http://download.savannah.gnu.org/releases/man-db/man-db-2.6.7.1.tar.xz
+http://download.savannah.gnu.org/releases/man-db/man-db-2.6.6.tar.xz
 http://www.kernel.org/pub/linux/docs/man-pages/man-pages-3.68.tar.xz
 http://www.multiprecision.org/mpc/download/mpc-1.0.2.tar.gz
 http://www.mpfr.org/mpfr-3.1.2/mpfr-3.1.2.tar.xz
@@ -55,7 +55,7 @@ http://ftp.gnu.org/gnu/tar/tar-1.27.1.tar.xz
 http://prdownloads.sourceforge.net/tcl/tcl8.6.1-src.tar.gz
 http://www.iana.org/time-zones/repository/releases/tzdata2014d.tar.gz
 http://ftp.gnu.org/gnu/texinfo/texinfo-5.2.tar.xz
-http://www.freedesktop.org/software/systemd/systemd-214.tar.xz
+http://www.freedesktop.org/software/systemd/systemd-208.tar.xz
 http://anduin.linuxfromscratch.org/sources/other/udev-lfs-208-3.tar.bz2
 http://www.kernel.org/pub/linux/utils/util-linux/v2.24/util-linux-2.24.2.tar.xz
 ftp://ftp.vim.org/pub/vim/unix/vim-7.4.tar.bz2
@@ -67,6 +67,5 @@ http://www.linuxfromscratch.org/patches/lfs/7.5/coreutils-8.22-i18n-4.patch
 http://www.linuxfromscratch.org/patches/lfs/7.5/glibc-2.19-fhs-1.patch
 http://www.linuxfromscratch.org/patches/lfs/7.5/kbd-2.0.1-backspace-1.patch
 http://www.linuxfromscratch.org/patches/lfs/7.5/perl-5.18.2-libc-1.patch
-http://www.linuxfromscratch.org/patches/lfs/7.5/readline-6.2-fixes-2.patch
 http://www.linuxfromscratch.org/patches/lfs/7.5/sysvinit-2.88dsf-consolidated-1.patch
 http://www.linuxfromscratch.org/patches/lfs/7.5/tar-1.27.1-manpage-1.patch
